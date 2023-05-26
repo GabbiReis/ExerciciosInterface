@@ -1,0 +1,8 @@
+C:\Users\gaby3\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\bin\Debug\ExercicioInterface.exe.config
+C:\Users\gaby3\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\bin\Debug\ExercicioInterface.exe
+C:\Users\gaby3\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\bin\Debug\ExercicioInterface.pdb
+C:\Users\gaby3\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\obj\Debug\ExercicioInterface.csproj.AssemblyReference.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\obj\Debug\ExercicioInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\obj\Debug\ExercicioInterface.csproj.CoreCompileInputs.cache
+C:\Users\gaby3\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\obj\Debug\ExercicioInterface.exe
+C:\Users\gaby3\OneDrive\Área de Trabalho\ExercicioInterface\ExercicioInterface\obj\Debug\ExercicioInterface.pdb
